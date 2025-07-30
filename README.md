@@ -1,6 +1,7 @@
-# Test Slicing Flutter E-Commerce Bu Miranda (PWL)
-# test_slicing_yas
-## Getting Started
+# Test Slicing Flutter E-Commerce Bu Miranda (PWL).
+## Yahya Ayyas Syauqoni | XII RPL-1.
+#### test_slicing_yas
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
